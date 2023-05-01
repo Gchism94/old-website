@@ -5,7 +5,11 @@
 ![NestArch](https://github.com/Gchism94/Nest_Arch_ColonyOrganization/blob/main/Figures/NestArchFig.png)
 
 
-I develop statistics and reproducible research curriculum as a Computational and Data Science Educator at the University of Arizona Data Science Institute, where my experience with image and video analysis and research ethics support my devotion to open science. My Ph.D. dissertation, under the guidance of Dr. Anna Dornhaus, focused on how the shapes of ant nests affect how they behave, and addressed links between animal and human architectures. I am actively involved in R programming consultation and workshops, statistical training, and collaborative, reproducible research. 
+As a data science educator with a background in research, I am passionate about harnessing the power of data to uncover compelling stories and insights. With over eight years of experience in the field, my goal is to empower others to leverage their data, making complex concepts accessible and inspiring.
+
+After completing my doctoral training, I have continued to expand my expertise in data science, mastering tools such as inferential statistics, machine learning, containers, and programming languages. This diverse skill set allows me to effectively tackle a wide range of projects and challenges.
+
+As an educator, I am committed to sharing my knowledge and experiences with others, guiding them on their own data-driven journeys. By connecting the ancient art of storytelling with the modern world of data science, I aim to inspire the next generation of data scientists and storytellers. 
 
 ## Find me around the web 🌎: <a href="https://github.com/Gchism94"><img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/6677629/89195331-a045af00-d576-11ea-96a1-f185f2821df6.png"></a>
 - See my professional portfolio: https://gchism.netlify.app/
